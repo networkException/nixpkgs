@@ -29,7 +29,7 @@
 - Release updates: https://chromereleases.googleblog.com/
   - Available as Atom or RSS feed (filter for
     "Stable Channel Update for Desktop")
-  - Channel overview: https://omahaproxy.appspot.com/
+  - Release API: https://developer.chrome.com/docs/versionhistory/guide/
   - Release schedule: https://chromiumdash.appspot.com/schedule
 
 # Updating Chromium
