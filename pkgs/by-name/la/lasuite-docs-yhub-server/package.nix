@@ -46,6 +46,7 @@ stdenv.mkDerivation (finalAttrs: {
   installPhase = let
     yhubPatches = [
       ./allow-db-configuration-without-postgres-conf-parameter.patch
+      ./disable-db-creation.patch
     ];
   in ''
     runHook preInstall
